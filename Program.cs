@@ -13,7 +13,7 @@ namespace ConsoleApp3
             int tuoi = 2022 - namsinh;
             Console.WriteLine("Hello " + name + ", Nam nay ban duoc " + tuoi);
             
-            
+            //1132
 
            
         }
